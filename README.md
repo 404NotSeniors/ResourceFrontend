@@ -1,10 +1,10 @@
-# 🧱 resourcefrontend
+# 🧑‍💻 resourcefrontend
 
 A modern **Next.js + TypeScript** frontend project scaffold for building scalable resource management UIs, powered by **Zustand**, **TailwindCSS**, **Zod**, **React Hook Form** and **Vitest** for testing.
 
 ---
 
-## 📦 Stack Overview
+## 🧰 Stack Overview
 
 | Tool                 | Purpose                                   |
 | -------------------- | ----------------------------------------- |
@@ -21,7 +21,7 @@ A modern **Next.js + TypeScript** frontend project scaffold for building scalabl
 
 ---
 
-## 🛠 Setup Notes
+## 🪄 Setup Notes
 
 ```
 npm run dev         # Start local dev server
@@ -31,7 +31,7 @@ npx vitest          # Run all tests
 npx vitest --watch  # Watch & re-run tests on save
 ```
 
-### ✅ Import Alias
+### ✨ Import Alias
 
 This project uses the alias:
 
@@ -45,4 +45,4 @@ Example:
 import { ResourceForm } from '@/components/ResourceForm';
 ```
 
-Built with 🖤
+Built with 🖤 by 🧙‍♀️🧙
