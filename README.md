@@ -6,18 +6,17 @@ A modern **Next.js + TypeScript** frontend project scaffold for building scalabl
 
 ## 🧰 Stack Overview
 
-| Tool                 | Purpose                                   |
-| -------------------- | ----------------------------------------- |
-| **Next.js**          | React framework with App Router           |
-| **TypeScript**       | Type-safe development                     |
-| **TailwindCSS**      | Utility-first styling                     |
-| **Zustand**          | Global state management                   |
-| **Zod**              | Form validation schema                    |
-| **React Hook Form**  | Form state & inputs                       |
-| **Shadcn UI**        | Headless UI components (beautiful + fast) |
-| **Vitest**           | Unit + component testing                  |
-| **@testing-library** | DOM testing & user interaction            |
-| **JSDOM**            | Simulated browser environment for tests   |
+| Tool                 | Purpose                                 |
+| -------------------- | --------------------------------------- |
+| **Next.js**          | React framework with App Router         |
+| **TypeScript**       | Type-safe development                   |
+| **TailwindCSS**      | Utility-first styling                   |
+| **Zustand**          | Global state management                 |
+| **Zod**              | Form validation schema                  |
+| **React Hook Form**  | Form state & inputs                     |
+| **Vitest**           | Unit + component testing                |
+| **@testing-library** | DOM testing & user interaction          |
+| **JSDOM**            | Simulated browser environment for tests |
 
 ---
 
