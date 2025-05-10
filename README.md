@@ -39,10 +39,10 @@ This project uses the alias:
 @/*
 ```
 
-````Example:
+Example:
 
-```ts
+```
 import { ResourceForm } from '@/components/ResourceForm';
-````
+```
 
 Built with 🖤
