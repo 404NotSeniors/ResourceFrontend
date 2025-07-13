@@ -44,4 +44,4 @@ Example:
 import { ResourceForm } from '@/components/ResourceForm';
 ```
 
-Built with 🖤 by 🧙‍♀️🧙
+Built with 🖤 by 🧙‍♀️
