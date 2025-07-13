@@ -1,0 +1,27 @@
+/*
+Resets: (box-sizing, margin/padding)
+Base typography: (body, headings)
+Global helpers: (utility classes you want everywhere)
+Imports: (fonts, other partials)
+*/
+@use "./variables" as *;
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+//global font from Google Fonts (Inter, 400/700)
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+
+//helpers
+
+body {
+  color: $primary;
+}
+
+.hide {
+  display: none !important;
+}
+.text-center {
+  text-align: center;
+}
